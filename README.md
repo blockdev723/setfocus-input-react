@@ -1,10 +1,6 @@
-#########################################################################
 
 # Sample of the method how to set focus on input after rendering in React
 
-# By Nastia
-
-#########################################################################
 
 ## Install
 
